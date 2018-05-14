@@ -1,0 +1,4 @@
+Start database by running the next commands
+
+chmod +x saeed.sh
+./saeed.sh
